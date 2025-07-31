@@ -28,7 +28,7 @@ Antes de rodar o PeekDomain, certifique-se de ter o Go instalado. Feito isso, vo
 1.  **Clone o repositório:**
 
     ```bash
-    git clone https://github.com/seu-usuario/PeekDomain.git
+    git clone https://github.com/William-Dias-Marcos/Peek-Domain-Golang
     cd Peek-Domain-Golang
     ```
 

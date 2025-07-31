@@ -51,7 +51,7 @@ Antes de rodar o PeekDomain, certifique-se de ter o Go instalado. Feito isso, vo
 
 -----
 
-## 👨🏼‍💻 Autor
+### 👨🏼‍💻 Autor
 
 William Dias Marcos
 
